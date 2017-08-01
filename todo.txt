@@ -1,9 +1,10 @@
 Conversion functions needed:
 
+conversion.py will implement this:
+
   - Dollars to Cents
   - Gallons to Liters
   - Hours to Minutes
   - Feet to Inches
   - Degrees to Radians
-
 
